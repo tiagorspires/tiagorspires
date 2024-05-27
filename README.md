@@ -12,11 +12,11 @@ Hi there, I'm Tiago Pires <img src="https://raw.githubusercontent.com/MartinHein
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
 </a>
 
-### **Best projects developed at the Faculty of Engineering of the University of Porto** 
+### **Projects developed at the Faculty of Engineering of the University of Porto** 
 
 </p>
 
-| UC | Code | Editor | Title | Description |
+| UC | Language(s) | Editor | Title | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | [PI](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501692) | Java | IntelliJ | [GZoltar](https://github.com/GZoltar/gzoltar) |  a framework for automating the testing and debugging phases of the software development life-cycle. |
 | [LDTS](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=484407) | Java | IntelliJ | [Space Ship](https://github.com/tiagorspires/LDTS-SpaceShip) | a java game using design patters |
