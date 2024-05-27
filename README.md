@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there, I'm Tiago Pires <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-<!--
-**tiagorspires/tiagorspires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏙️ Located in Porto, Portugal <br>
+📖 Student of Bachelor's Degree of Informatics and Computing Engineering at [@FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial) <br>
+🎓 University of Porto, Portugal <br>
+📔 Check my projects here <br>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/tiagorspires/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href = "mailto:tiagoboss17@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+</a>
