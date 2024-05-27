@@ -22,4 +22,5 @@ Hi there, I'm Tiago Pires <img src="https://raw.githubusercontent.com/MartinHein
 | [LDTS](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=484407) | Java | IntelliJ | [Space Ship](https://github.com/tiagorspires/LDTS-SpaceShip) | a java game using design patters |
 | [CPD](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520333) | C / Java | VSCode | [Matrix Multiplication](https://github.com/tiagorspires/CPD-Parallel) | performance of single-core and multi-core implementations of matrix multiplication algorithms |
 | [PFL](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520329) | Prolog | VSCode | [Period-5](https://github.com/tiagorspires/Period-5) |a board game using a Logic Programming Language|
+| [PFL](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520329) | Haskell | VSCode | [Haskell Compiler](https://github.com/tiagorspires/PFL-haskell-compiler) |a simulation of a simple compiler in Haskell (Functional Programming)|
 
