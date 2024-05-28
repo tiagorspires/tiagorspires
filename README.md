@@ -27,7 +27,10 @@ Hi there, I'm Tiago Pires <img src="https://raw.githubusercontent.com/MartinHein
 | [IA](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=519340) | Java | IntelliJ | [Delivery Scheduling](https://github.com/tiagorspires/IA-DeliveryScheduling) |aims to optimize package delivery scheduling using various meta-heuristic algorithms|
 | [IA](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=519340) | Python | DataSpell | [DNS Traffic Analysis](https://github.com/Ricardo-Da-Cruz/AI-dns-traffic-analysis) |analize DNS queries and identify malicious activities and ensure cybersecurity|
 | [DA](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484424) | Java | IntelliJ | [Bon Voyage](https://github.com/tiagorspires/DA-BonVoyage) | aims organize routes and connections for its customers in the best possible way|
+| [CG](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501689) | Javascript | VSCode | [Flying Bird](https://github.com/tiagorspires/CG-FlyingBird) | A graphical scene using WebGL |
+| [FSI](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501683) | Bash | VSCode | [Hacking](https://github.com/tiagorspires/FSI-Security) |fragilities exploitation on a virtual machine|
 | [LTW](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=484427) | HTML, CSS, PHP, JS | PHP Storm | [Restaurant Website](https://github.com/FEUP-LTW-2022/ltw-restaurant/tree/master) |a restaurant website without using any framework|
+
 
 
 
