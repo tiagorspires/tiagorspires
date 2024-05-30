@@ -1,6 +1,6 @@
 Hi there, I'm Tiago Pires <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-🏙️ Located in Porto, Portugal <br>
+🌍 Based in Porto, Portugal <br>
 📖 Student of Bachelor's Degree of Informatics and Computing Engineering at [@FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial) <br>
 🎓 University of Porto, Portugal <br>
 
