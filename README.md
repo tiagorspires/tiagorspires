@@ -30,7 +30,7 @@ Hi there, I'm Tiago Pires <img src="https://raw.githubusercontent.com/MartinHein
 | [CG](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501689) | Javascript | VSCode | [Flying Bird](https://github.com/tiagorspires/CG-FlyingBird) | A graphical scene using WebGL |
 | [FSI](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501683) | Bash | VSCode | [Hacking](https://github.com/tiagorspires/FSI-Security) |fragilities exploitation on a virtual machine|
 | [LTW](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=484427) | HTML, CSS, PHP, JS | PHP Storm | [Restaurant Website](https://github.com/FEUP-LTW-2022/ltw-restaurant/tree/master) |a restaurant website without using any framework|
-| [LCOM](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520323) | C | VSCode | [Tetris](https://github.com/tiagorspires/LCOM-Tetris) | a low level tetris game using porgramming pc drivers using interrupts |
+| [LCOM](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520323) | C | VSCode | [Tetris](https://github.com/tiagorspires/LCOM-Tetris) | a low level tetris game programming pc drivers with interrupts (timer, keyboard, mouse, video card) |
 
 
 
