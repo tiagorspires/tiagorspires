@@ -1,14 +1,15 @@
 Hi there, I'm Tiago Pires <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-🌍 Based in Porto, Portugal <br>
-📖 Bachelor's Degree of Informatics and Computing Engineering at [@FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial) <br>
-🎓 University of Porto, Portugal <br>
+🌍 Based in Praia, Cape Verde  <br>
+📖 Bachelor's Degree of Informatics and Computing Engineering at [@FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial), University of Porto, Portugal 🎓 <br>
+🎓 Currently pursuing a Master's Degree in Informatics Engineering at the University of Cape Verde 🖥️ <br>
+💼 Working as a Developer at Cabo Verde Broadcast 📡 <br>
 
 <a href="https://www.linkedin.com/in/tiagorspires/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-<a href = "mailto:tiagoboss17@gmail.com">
+<a href = "mailto:tiagorspires@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
 </a>
 
@@ -32,8 +33,13 @@ Hi there, I'm Tiago Pires <img src="https://raw.githubusercontent.com/MartinHein
 | [LTW](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=484427) | HTML, CSS, PHP, JS | PHP Storm | [Restaurant Website](https://github.com/FEUP-LTW-2022/ltw-restaurant/tree/master) |a restaurant website without using any framework|
 | [LCOM](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520323) | C | VSCode | [Tetris](https://github.com/tiagorspires/LCOM-Tetris) | a low level tetris game programming pc drivers with interrupts (timer, keyboard, mouse, video card) |
 
-
-
+### **Most Used Languages**
+<p align="center">
+  <a href="https://github.com/tiagorspires">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiagorspires&theme=vue" alt="Languages by Repository" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tiagorspires&theme=vue" alt="Languages by Commit" />
+  </a>
+</p>
 
 
 
