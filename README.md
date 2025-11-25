@@ -3,7 +3,7 @@ Hi there, I'm Tiago Pires <img src="https://raw.githubusercontent.com/MartinHein
 🌍 Based in Praia, Cape Verde  <br>
 📖 Bachelor's Degree of Informatics and Computing Engineering at [@FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial), University of Porto, Portugal 🎓 <br>
 🎓 Currently pursuing a Master's Degree in Informatics Engineering at the University of Cape Verde 🖥️ <br>
-💼 Working as a Developer at <a href="https://www.linkedin.com/company/cabo-verde-broadcast-sa/posts/?feedView=all">Cabo Verde Broadcast</a>📡 <br>
+💼 Working as a Software Developer at <a href="https://www.linkedin.com/company/cabo-verde-broadcast-sa/posts/?feedView=all">Cabo Verde Broadcast</a>📡 <br>
 
 <a href="https://www.linkedin.com/in/tiagorspires/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
