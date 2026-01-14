@@ -33,6 +33,15 @@ Hi there, I'm Tiago Pires <img src="https://raw.githubusercontent.com/MartinHein
 | [LTW](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=484427) | HTML, CSS, PHP, JS | PHP Storm | [Restaurant Website](https://github.com/FEUP-LTW-2022/ltw-restaurant/tree/master) |a restaurant website without using any framework|
 | [LCOM](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520323) | C | VSCode | [Tetris](https://github.com/tiagorspires/LCOM-Tetris) | a low level tetris game programming pc drivers with interrupts (timer, keyboard, mouse, video card) |
 
+
+### **Projects developed at the University of Cape Verde** 
+
+| UC | Language(s) | Editor | Title | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| DDAM | Kotlin | Android Studio | [AutoForm](https://github.com/tiagorspires/DDAM-AutoForm) | an application for managing auto schools. |
+| DDAM | Kotlin | Android Studio | [Condominius](https://github.com/tiagorspires/Condominius-DDAM) | an application for managing condominiums. |
+| IO | Python | VSCode | [FlowOptimization](https://github.com/tiagorspires/IO-MEI) | Flow Optimization in Complex Networks |
+
 ### **Most Used Languages**
 <p align="center">
   <a href="https://github.com/tiagorspires">
